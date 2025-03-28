@@ -1,0 +1,11 @@
+id,age,income,gender,education,score,department
+1,25,50000,Male,Bachelor,78,Marketing
+2,32,75000,Female,Master,85,Engineering
+3,45,90000,Male,PhD,92,Management
+4,28,48000,Female,Bachelor,72,HR
+5,36,82000,Male,Master,88,Engineering
+6,52,110000,Female,PhD,95,Management
+7,23,42000,Male,Bachelor,68,Marketing
+8,40,95000,Female,Master,90,Engineering
+9,29,55000,Male,Bachelor,75,HR
+10,48,105000,Female,PhD,94,Management
